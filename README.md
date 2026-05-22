@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🙋‍♀️ Hi%2C+I'm+Nabilah;Welcome+to+my+GitHub+Profile!" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=6EA8FE&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Nabilah" />
+</h1>
 
 <p align="center">
   💻 AI • Data Science • Software Engineering
