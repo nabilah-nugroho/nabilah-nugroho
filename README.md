@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=6EA8FE&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Nabilah+%F0%9F%91%8B;AI+Engineer;Data+Science+Enthusiast;Software+Engineering+Student" />
+</h1>
+
 <h1 align="center">👋 Hi, I'm Nabilah</h1>
 
 <p align="center">
