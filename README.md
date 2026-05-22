@@ -8,9 +8,6 @@
 
 <div align="center">
 
-<!-- GitHub Stats (Menggunakan mirror github-readme-stats yang lebih stabil) -->
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nabilah-nugroho&show_icons=true&theme=tokyonight&hide_border=true)
-
 <!-- Top Languages (Menggunakan mirror github-readme-stats) -->
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilah-nugroho&layout=compact&theme=tokyonight&hide_border=true)
 
