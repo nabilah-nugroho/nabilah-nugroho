@@ -8,10 +8,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilah-nugroho&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- GitHub Stats (Menggunakan mirror github-readme-stats yang lebih stabil) -->
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nabilah-nugroho&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilah-nugroho&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Top Languages (Menggunakan mirror github-readme-stats) -->
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nabilah-nugroho&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nabilah-nugroho&theme=tokyonight&hide_border=true)
+<!-- GitHub Streak (Menggunakan domain git-streak yang merupakan versi lebih update & stabil) -->
+![GitHub Streak](https://git-streak.vercel.app/?user=nabilah-nugroho&theme=tokyonight&hide_border=true)
 
 </div>
