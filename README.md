@@ -5,14 +5,13 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilah-nugroho&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilah-nugroho&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nabilah-nugroho&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilah-nugroho&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilah-nugroho&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nabilah-nugroho&theme=tokyonight&hide_border=true)
+
+</div>
