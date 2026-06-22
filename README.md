@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  💻 AI • Data Science • Software Engineering • Math
+  💻 Frontend Engineer @Veterantech - Dignition | Talent Intelligence @AIESEC in UPNVJ
 </p>
 
 ---
