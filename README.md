@@ -84,7 +84,7 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/europh1s?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/europh1s?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
