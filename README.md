@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nabilah%20Nugroho&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Mathematical%20Modelling%20%E2%80%A2%20Systems%20%26%20Web%20Engineering&descAlignY=58&descSize=15" width="100%" />
-</div>
-
 <p align="center">
   <a href="https://github.com/nabilah-nugroho">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A3BE8C&center=true&vCenter=true&width=650&lines=Building+algorithms+%26+math+engines+from+first+principles.;Exploring+Computational+Science%2C+ML+%26+Web+Architecture.;Data+Science+Undergraduate+%40+UPN+%22Veteran%22+Jakarta." alt="Typing SVG" />
