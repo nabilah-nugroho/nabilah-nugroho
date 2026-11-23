@@ -12,10 +12,7 @@
 
 ### 🧭 About Me
 
-- 🔬 **Focus:** Quantitative Modelling, Machine Learning, Algorithm Design, and Full-Stack Web Engineering.
 - 🧮 **Philosophy:** *First-principles thinking* — understanding how systems, neural networks, and linear algebra work under the hood before reaching for abstractions.
-- 🛠️ **Currently Building:** Low-level mathematical implementations in C/C++, AI workflow automations, and interactive data/simulation web apps.
-- ⚡ **Fun Fact:** Equally comfortable debugging pointer arithmetic in C, deriving proofs, and crafting clean frontend interfaces.
 
 ---
 
@@ -82,19 +79,7 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Domain | Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **[TerraWhatIf](https://github.com/nabilah-nugroho/terrawhatif)** | Climate & Planetary Simulation | `TypeScript` `React` `3D` | Interactive 3D Coastal Climate Observatory built for NASA Space Apps Challenge 2026 |
-| **[Math From Scratch](https://github.com/nabilah-nugroho/math-from-scratch)** | Scientific Computing | `C++` `Algorithms` | Implementations of linear algebra, numerical methods, and math engines without external libraries |
-| **[EXPA Signup Automation](https://github.com/nabilah-nugroho/expa-signup-automation)** | AI & Workflow Automation | `Apps Script` `LLM API` | AI-powered registrant classification, deduplication, and personalized WhatsApp draft generator |
-| **[Lab-Sync](https://github.com/nabilah-nugroho/lab-sync)** | Systems Administration | `Bash` `Ubuntu Linux` | Automated multi-lab file synchronization featuring file locking, backups, and audit logs |
-| **[VeteranMart](https://github.com/nabilah-nugroho/veteranmart)** | Full-Stack Web | `Laravel` `Blade` `MySQL` | Campus-wide marketplace platform with structured team Git workflows |
-
----
-
-### 📈 GitHub Metrics
+### 📈 Coding & GitHub Metrics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nabilah-nugroho&show_icons=true&theme=rose_pine&hide_border=true&bg_color=191724" alt="GitHub Stats" />
@@ -105,12 +90,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilah-nugroho&theme=rose-pine&hide_border=true&background=191724" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/europh1s?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
 ---
 
 ### 🌐 Connect
 
 <p align="left">
   <a href="https://github.com/nabilah-nugroho"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/nabilah-nugroho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/europh1s"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/nabilah-nugroho"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:boredluckykid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
