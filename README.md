@@ -79,16 +79,9 @@
 
 ---
 
-### 📈 Coding & GitHub Metrics
+### 📈 LeetCode Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nabilah-nugroho&show_icons=true&theme=rose_pine&hide_border=true&bg_color=191724" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilah-nugroho&layout=compact&theme=rose_pine&hide_border=true&bg_color=191724" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilah-nugroho&theme=rose-pine&hide_border=true&background=191724" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/europh1s?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
